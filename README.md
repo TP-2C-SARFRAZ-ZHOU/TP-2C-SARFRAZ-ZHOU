@@ -2,10 +2,10 @@
 
 ## Descrition
 TP-JS / Poneys, Unicorns and stuff
-
-'number of poney 10'
-'Deadpool and Spider man are unique'
-
+<p>
+number of poney 10
+Deadpool and Spider man are unique
+<p>
 
 ## Instalation 
 Recover the project on the git :
