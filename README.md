@@ -3,9 +3,8 @@
 ## Descrition
 TP-JS / Poneys, Unicorns and stuff
 
-number of poney 10
-
-Deadpool and Spider man are unique
+* number of poney 10
+* Deadpool and Spider man are unique
 
 
 ## Instalation 
@@ -13,8 +12,8 @@ Recover the project on the git :
 https://github.com/TP-2C-SARFRAZ-ZHOU/TP-2C-SARFRAZ-ZHOU
 
 run the following command to install it:
-npm install bluebird
-npm install event-emitter
+* npm install bluebird
+* npm install event-emitter
 
 
 ## JavaScript language version
