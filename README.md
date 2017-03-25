@@ -15,6 +15,8 @@ run the following command to install it:
 * npm install bluebird
 * npm install event-emitter
 
+## Main
+index.js
 
 ## JavaScript language version
 ECMAScript6
