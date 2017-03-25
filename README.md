@@ -3,8 +3,9 @@
 ## Descrition
 TP-JS / Poneys, Unicorns and stuff
 
-+ number of poney 10
-+ Deadpool and Spider man are unique
+number of poney 10
+
+Deadpool and Spider man are unique
 
 
 ## Instalation 
