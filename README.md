@@ -21,8 +21,8 @@ ECMAScript6
 
 
 ## Authors
-*ZHOU Edouard
-*SARFRAZ Fahad
+* ZHOU Edouard
+* SARFRAZ Fahad
 
 
 ## License
