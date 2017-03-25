@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "npm": "^4.4.1"
+  },
+
+  "xo": {
+    " esnext ": true ,
+     " envs ": [
+       " node ",
+       " mocha "
+       ],
+    " space ": 2,
+     " rules ": {
+       "max - len ": [
+         " error ",
+         80,
+         2
+         ]
+       },
+    " ignores ": [
+      " Gruntfile .js"
+       ]
+     },
+
+  "name": "tpjs",
+  "version": "1.0.0",
+  "description": "TP JS 2C - Poneys, Unicorns and stuff",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FahadSarfraz/TP-2C-2017-SARFRAZ-ZHOU.git"
+  },
+  "author": "Edouard ZHOU et Fahad SARFRAZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FahadSarfraz/TP-2C-2017-SARFRAZ-ZHOU/issues"
+  },
+  "homepage": "https://github.com/FahadSarfraz/TP-2C-2017-SARFRAZ-ZHOU#readme"
+}
