@@ -11,6 +11,8 @@ TP-JS / Poneys, Unicorns and stuff
 Recover the project on the git :
 https://github.com/TP-2C-SARFRAZ-ZHOU/TP-2C-SARFRAZ-ZHOU
 
+
+## Utilisation
 run the following command to install it:
 * npm start
 * npm install bluebird
